@@ -1,0 +1,21 @@
+nav{
+    height: 50px;
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.nav-element{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-element p{
+    margin-left: 30px;
+}
+.nav-link{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 30px;
+}
